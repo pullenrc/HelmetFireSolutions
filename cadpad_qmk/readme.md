@@ -4,8 +4,10 @@
 
 I designed this macropad specifically for use with Freecad!  I would like to use the keyboard shortcuts, however, this routinely has you removing you hand from the mouse which slows things down.  The keymap provides layers so that you can use you favorite shorcuts using your left hand on the pad, and your right hand on the mouse.  There is even a numpad layer! Once I learn the keymap this is going to be a force multiplier.
 
+## Firmware Design Choice
+
 I evenually chose to use QMK for the software build due to Oled support.  Along the way I also tried:
-KMK
+* KMK
     Pros:
         Easyiest to get going
         Uses python keymap
@@ -13,7 +15,7 @@ KMK
     Cons:
         Keyboard sometimes will not enumerate, drive shows up but keyboard does not work.
 
-RMK
+* RMK
     Pros:
         Very fast
         Vial functinality out of the box
@@ -21,7 +23,7 @@ RMK
     Cons:
         No OLED support - this was a deal breaker for me
 
-QMK is very mature and supports OLED/Haptic/Encoder.
+* QMK is very mature and supports OLED/Haptic/Encoder.
 
 
 * Keyboard Maintainer: [pullenrc](https://github.com/pullenrc/HelmetFireSolutions/tree/main/cadpad_qmk)
