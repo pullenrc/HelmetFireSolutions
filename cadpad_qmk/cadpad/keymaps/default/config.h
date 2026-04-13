@@ -1,0 +1,5 @@
+#pragma once
+
+#define OLED_DISPLAY_128X32
+#define BOOTMAGIC_LITE_ROW 0
+#define BOOTMAGIC_LITE_COLUMN 0
