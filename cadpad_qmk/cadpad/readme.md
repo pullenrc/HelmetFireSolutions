@@ -1,6 +1,6 @@
 # cadpad
 
-![cadpad](imgur.com image replace me!)
+![cadpad](images/cadpad.png)
 
 *A short description of the keyboard/project*
 
