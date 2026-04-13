@@ -25,11 +25,6 @@ I evenually chose to use QMK for the software build due to Oled support.  Along 
 
 * QMK is very mature and supports OLED/Haptic/Encoder.
 
-
-* Keyboard Maintainer: [pullenrc](https://github.com/pullenrc/HelmetFireSolutions/tree/main/cadpad_qmk)
-* Hardware Supported: Handwired with RP2040 controller, I2C mapping: SDA=GP2, SCL=GP3
-* Hardware Availability: Everything is avaialble on github or Amazon
-
 ## Hardware
 Note: These are affiliate links - costs you nothing and helps support my efforts.
 🔲 Raspberry Pi Pico (RP2040)
@@ -52,6 +47,9 @@ Note: These are affiliate links - costs you nothing and helps support my efforts
 
 🖨️ Case - No affiliation.
    → https://github.com/mattdibi/redox-keyboard
+
+* Hardware Supported: Handwired with RP2040 controller, I2C mapping: SDA=GP2, SCL=GP3
+* Hardware Availability: Everything is avaialble on github or Amazon
 
 ## QMK commands
 
